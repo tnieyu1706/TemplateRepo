@@ -2,8 +2,9 @@
 Closes #
 
 ## 📝 Changes
-<!-- Mô tả ngắn những gì đã thay đổi -->
+<!-- Brief description of what changed and why -->
 
 ## ✅ Checklist
-- [ ] Đã test local
-- [ ] Không break feature khác
+- [ ] Tested locally
+- [ ] No existing features broken
+- [ ] PR title follows convention

@@ -1,18 +1,18 @@
 ---
 name: ✅ Task
-about: Tạo task mới cho team
+about: Create a new task for the team
 title: '[TASK] '
 labels: task
 assignees: ''
 ---
 
 ## 🎯 Objective
-<!-- Mục tiêu cụ thể cần đạt được là gì? -->
+<!-- What is the specific goal to achieve? -->
 
 ## 📌 Scope
-<!-- Bao gồm những gì? Không bao gồm những gì? -->
+<!-- What is included? What is explicitly out of scope? -->
 - [ ] 
 - [ ] 
 
 ## ✅ Expected Result
-<!-- Kết quả mong đợi khi task hoàn thành? -->
+<!-- What does "done" look like? -->
